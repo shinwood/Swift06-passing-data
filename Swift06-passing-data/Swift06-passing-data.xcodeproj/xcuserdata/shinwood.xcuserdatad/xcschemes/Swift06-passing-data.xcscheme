@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B21F357D1CE0EAAC007492B3"
+               BlueprintIdentifier = "B227AB411D032C250013BA7E"
                BuildableName = "Swift06-passing-data.app"
                BlueprintName = "Swift06-passing-data"
                ReferencedContainer = "container:Swift06-passing-data.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B21F357D1CE0EAAC007492B3"
+            BlueprintIdentifier = "B227AB411D032C250013BA7E"
             BuildableName = "Swift06-passing-data.app"
             BlueprintName = "Swift06-passing-data"
             ReferencedContainer = "container:Swift06-passing-data.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B21F357D1CE0EAAC007492B3"
+            BlueprintIdentifier = "B227AB411D032C250013BA7E"
             BuildableName = "Swift06-passing-data.app"
             BlueprintName = "Swift06-passing-data"
             ReferencedContainer = "container:Swift06-passing-data.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B21F357D1CE0EAAC007492B3"
+            BlueprintIdentifier = "B227AB411D032C250013BA7E"
             BuildableName = "Swift06-passing-data.app"
             BlueprintName = "Swift06-passing-data"
             ReferencedContainer = "container:Swift06-passing-data.xcodeproj">

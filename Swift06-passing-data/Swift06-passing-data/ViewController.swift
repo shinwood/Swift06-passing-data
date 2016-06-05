@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Swift06-passing-data
 //
-//  Created by shinwood on 5/9/16.
+//  Created by shinwood on 6/4/16.
 //  Copyright © 2016 guox.in. All rights reserved.
 //
 
