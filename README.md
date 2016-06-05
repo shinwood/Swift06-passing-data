@@ -9,7 +9,7 @@
 
 ## 预览
 
-
+![Preview](https://raw.githubusercontent.com/shinwood/Swift06-passing-data/master/Swift06-passing-data.gif)
 
 ## 更多阅读
 
